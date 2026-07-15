@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mjk87m.koitoto66gmd.site/sitemap.xml
